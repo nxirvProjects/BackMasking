@@ -1,4 +1,4 @@
-**Vishnu Nair | VSN200001 | CS 3345.003**
+**Vishnu Nair | CS 3345.003**
 
 **<span style="text-decoration:underline;">ArrayStack:  (Is an Array implementation of a Stack Data Structure)</span>**
 
